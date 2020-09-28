@@ -1,0 +1,24 @@
+{
+  "name": "Quiz-Online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibezerra/Quiz-Online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guibezerra/Quiz-Online/issues"
+  },
+  "homepage": "https://github.com/guibezerra/Quiz-Online#readme",
+  "dependencies": {
+    "axios": "0.20.0"
+  }
+}
