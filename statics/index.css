@@ -11,6 +11,16 @@ header {
     background-color: #364042;
     height:50px;
 }
+.logo {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-left: 10px;
+}
+.logo h3{
+    color: #fff;
+    margin: 0px;
+}
 .autenticacao {
     position: absolute;
     right: 20px;
